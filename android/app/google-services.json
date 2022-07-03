@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330399914344",
+    "project_id": "bmra-b7f75",
+    "storage_bucket": "bmra-b7f75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330399914344:android:b0f2916f9d7ce33d105edd",
+        "android_client_info": {
+          "package_name": "com.example.bmra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330399914344-j3b2vr1nn2lgg5v5gvjh88sfij6navvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhVTi9MBbVx2Nf0jYCEDlLw0bpyiUK1g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330399914344-j3b2vr1nn2lgg5v5gvjh88sfij6navvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
